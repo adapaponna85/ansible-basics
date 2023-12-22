@@ -2,13 +2,5 @@
 18.209.13.125
 
 [catalogue]
-18.209.13.121
 
 [cart]
-18.209.13.126
-
-
-[roboshop:all]
-web
-cart
-catalogue
